@@ -1,8 +1,6 @@
 package BookExample.code;
 
 public class Dollar extends Money {
-    private int amount;
-
     public Dollar(int amount) {
         this.amount = amount;
     }
