@@ -8,7 +8,7 @@ Authors: Tiffany BONZON, Moïn DANAI, Alban FAVRE
 - [x] Dollar side-effects
 - [ ] Money rounding?
 - [x] Equals()
-- [ ] HashCode()
+- [x] HashCode()
 - [ ] Equal null
 - [ ] Equal object
 - [x] 5 CHF * 2 = 10 CHF
