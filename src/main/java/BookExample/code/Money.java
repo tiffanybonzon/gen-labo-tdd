@@ -27,4 +27,9 @@ public abstract class Money {
     public String currency() {
         return currency;
     };
+
+    @Override
+    public String toString() {
+        return amount + " " + currency;
+    }
 }
