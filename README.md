@@ -6,7 +6,7 @@ Authors: Tiffany BONZON, Moïn DANAI, Alban FAVRE
 - [x] $5 * 2 = $10
 - [x] Make "amount" private
 - [x] Dollar side-effects
-- [ ] Money rounding?
+- [x] Money rounding?
 - [x] Equals()
 - [x] HashCode()
 - [ ] Equal null
