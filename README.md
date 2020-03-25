@@ -9,8 +9,8 @@ Authors: Tiffany BONZON, Moïn DANAI, Alban FAVRE
 - [x] Money rounding?
 - [x] Equals()
 - [x] HashCode()
-- [ ] Equal null
-- [ ] Equal object
+- [x] Equal null
+- [x] Equal object
 - [x] 5 CHF * 2 = 10 CHF
 - [x] Dollar/Franc duplication
 - [x] Common equals
