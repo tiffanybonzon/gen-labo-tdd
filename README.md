@@ -17,4 +17,4 @@ Authors: Tiffany BONZON, Moïn DANAI, Alban FAVRE
 - [ ] Common times
 - [x] Francs != Dollars
 - [x] Currency?
-- [ ] Delete testFrancMultiplication?
+- [x] Delete testFrancMultiplication?
