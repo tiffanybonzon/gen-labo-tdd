@@ -2,16 +2,19 @@
 
 Authors: Tiffany BONZON, Moïn DANAI, Alban FAVRE
 
+<<<<<<< HEAD
 ### TODO General
+=======
+>>>>>>> toreview
 - [x] $5 + 10CHF = $10 if CHF:USD is 2:1
 - [x] $5 * 2 = $10
 - [x] Make "amount" private
 - [x] Dollar side-effects
-- [ ] Money rounding?
+- [x] Money rounding?
 - [x] Equals()
-- [ ] HashCode()
-- [ ] Equal null
-- [ ] Equal object
+- [x] HashCode()
+- [x] Equal null
+- [x] Equal object
 - [x] 5 CHF * 2 = 10 CHF
 - [x] Dollar/Franc duplication
 - [x] Common equals
@@ -19,6 +22,7 @@ Authors: Tiffany BONZON, Moïn DANAI, Alban FAVRE
 - [x] Francs != Dollars
 - [x] Currency?
 - [x] Delete testFrancMultiplication?
+<<<<<<< HEAD
 
 ### TODO Addition -> Abstraction
 - [x] $5 + 10CHF = $10 if CHF:USD is 2:1
@@ -30,3 +34,5 @@ Authors: Tiffany BONZON, Moïn DANAI, Alban FAVRE
 - [x] Expression.plus
 - [x] Sum-plus
 - [x] Expression.times
+=======
+>>>>>>> toreview
