@@ -12,9 +12,9 @@ Authors: Tiffany BONZON, Moïn DANAI, Alban FAVRE
 - [ ] Equal null
 - [ ] Equal object
 - [x] 5 CHF * 2 = 10 CHF
-- [ ] Dollar/Franc duplication
+- [x] Dollar/Franc duplication
 - [x] Common equals
-- [ ] Common times
+- [x] Common times
 - [x] Francs != Dollars
 - [x] Currency?
-- [ ] Delete testFrancMultiplication?
+- [x] Delete testFrancMultiplication?
