@@ -2,7 +2,7 @@
 
 Authors: Tiffany BONZON, Moïn DANAI, Alban FAVRE
 
-- [ ] $5 + 10CHF = $10 if CHF:USD is 2:1
+- [x] $5 + 10CHF = $10 if CHF:USD is 2:1
 - [x] $5 * 2 = $10
 - [x] Make "amount" private
 - [x] Dollar side-effects
